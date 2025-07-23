@@ -1,9 +1,8 @@
 ## 👋 안녕하세요? 결이에요.
 - 🤖 저는 디스코드 봇 개발에 관심이 많아요.
-- 📩 문의는 [connect@kyul.xyz](mailto:connect@kyul.xyz)로 부탁드려요.
-- 🤧 만약 저 메일로 보넀는데 1일이 지나도 답장이 안온다면 [support@kyul.xyz](mailto:support@kyul.xyz)로 보내주세요!
+- 📩 문의는 [contact@scile.kr](mailto:contact@scile.kr)로 부탁드려요.
 - 😀 제가 주로 사용하는 언어는 HTML, CSS, Javascript가 있어요.
-- 🖥️ 디스코드는 'kyul.e'에요.
+- 🖥️ 디스코드 내 사용자명은 'tossbank.official'이에요.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=connect-kyul)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -43,7 +42,7 @@
 - Visual Studio Code
 
 ## 🍊 Etc...
-- Spotify Premium
+- Apple Music
 - Discord
 - Arc
 
