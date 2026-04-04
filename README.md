@@ -29,7 +29,7 @@
 # Program
 
 ## 🎙️ JetBrains
-- Intellij IDEA Untimate
+- Intellij IDEA Ultimate
 - WebStorm Ultimate
 - PyCharm Ultimate
 
